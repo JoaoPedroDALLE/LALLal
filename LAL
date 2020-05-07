@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilo.css">
+    <title>Projeto1</title>
+</head>
+
+<body>
+    <header>
+        <h1>Projeto 1 - A Evolução</h1>
+    
+    </header>
+    <main>
+
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat impedit voluptatum quis soluta possimus,
+            iste totam similique beatae explicabo sed pariatur earum est saepe nobis laudantium laboriosam. Earum
+            deserunt quam unde officia culpa voluptatum minima minus numquam, odio harum libero dignissimos dolor, magni
+            facilis neque accusamus sunt. Obcaecati quisquam ad facilis nostrum rem est voluptas dolore veniam. Quisquam
+            exercitationem dicta illum, maiores delectus laboriosam sint eius, eveniet aliquam assumenda magnam impedit
+            non blanditiis dignissimos, sed in? Accusantium reprehenderit repellendus, quisquam nobis voluptatibus
+            ratione dolore. Soluta praesentium laborum, temporibus consequatur quasi consequuntur inventore eligendi
+            dolor non! Nemo, cum voluptate maiores fugit voluptas eos nisi ad porro voluptatum dolore totam perspiciatis
+            similique atque optio. Totam cupiditate aperiam, modi quos, tempora illo ullam dignissimos nisi corrupti
+            pariatur iste quae perferendis consequatur laudantium quo et earum autem ex nulla quidem adipisci neque
+            veniam. Repellendus minus ad expedita vero nobis. Inventore molestiae corrupti assumenda explicabo ut, qui
+            eos veniam amet culpa! Repudiandae accusamus, quae architecto rem eveniet iusto quos sit est eum asperiores
+            dignissimos repellat rerum odio ratione impedit iure saepe veniam sunt alias voluptatum nemo obcaecati
+            blanditiis? Deleniti eligendi excepturi numquam optio, dignissimos iste blanditiis accusamus nihil nostrum
+            possimus natus quaerat non nemo explicabo saepe. Labore suscipit eos non perferendis? Repellendus beatae
+            amet perferendis! Rem accusamus vel quisquam aperiam neque in excepturi dolorem nesciunt ratione omnis ab a
+            explicabo repellendus doloremque, ipsa fugiat quae esse vitae maiores provident? Assumenda voluptatem natus,
+            omnis illum itaque, mollitia doloribus exercitationem aspernatur esse ut porro dolores accusantium dolor.
+        </p>
+        <img src="skate.jpg" alt="choris">
+    </main>
+    <footer>
+
+        <h2>Todos os direitos reservados &reg; - 2020</h2>
+
+    </footer>
+</body>
+
+</html>
